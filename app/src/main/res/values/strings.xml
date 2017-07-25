@@ -1,113 +1,113 @@
 <resources>
 
-    <string name="error_generic">An error occurred.</string>
-    <string name="error_empty">This cannot be empty.</string>
-    <string name="error_invalid_domain">Invalid domain entered</string>
-    <string name="error_failed_app_registration">Failed authenticating with that instance.</string>
-    <string name="error_no_web_browser_found">Couldn\'t find a web browser to use.</string>
-    <string name="error_authorization_unknown">An unidentified authorization error occurred.</string>
-    <string name="error_authorization_denied">Authorization was denied.</string>
-    <string name="error_retrieving_oauth_token">Failed getting a login token.</string>
-    <string name="error_compose_character_limit">The status is too long!</string>
-    <string name="error_media_upload_size">The file must be less than 4MB.</string>
-    <string name="error_media_upload_type">That type of file cannot be uploaded.</string>
-    <string name="error_media_upload_opening">That file could not be opened.</string>
-    <string name="error_media_upload_permission">Permission to read media is required.</string>
-    <string name="error_media_download_permission">Permission to store media is required.</string>
-    <string name="error_media_upload_image_or_video">Images and videos cannot both be attached to the same status.</string>
-    <string name="error_media_upload_sending">The upload failed.</string>
-    <string name="error_report_too_few_statuses">At least one status must be reported.</string>
+    <string name="error_generic">嗷～出错了</string>
+    <string name="error_empty">主人，这里不能为空哦</string>
+    <string name="error_invalid_domain">无效的服务器</string>
+    <string name="error_failed_app_registration">主人，神经网同步出错</string>
+    <string name="error_no_web_browser_found">诶，主人的手机上没有浏览器</string>
+    <string name="error_authorization_unknown">诶，有未知的错误</string>
+    <string name="error_authorization_denied">人体身份识别认证出错</string>
+    <string name="error_retrieving_oauth_token">token出错，主人请检查网络</string>
+    <string name="error_compose_character_limit">不能超过500字哦</string>
+    <string name="error_media_upload_size">文件不能超过4MB哦主人</string>
+    <string name="error_media_upload_type">诶，这个格式的文件我不能识别</string>
+    <string name="error_media_upload_opening">主人，这个图片打不开QwQ</string>
+    <string name="error_media_upload_permission">我需要阅读媒体的权限哦</string>
+    <string name="error_media_download_permission">我需要储存文件的权限哦</string>
+    <string name="error_media_upload_image_or_video">图片和视频两者不能同时出现哦</string>
+    <string name="error_media_upload_sending">上传失败了QwQ</string>
+    <string name="error_report_too_few_statuses">诶，你至少需要选自一个举报啊</string>
 
-    <string name="title_home">Home</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="title_public_local">Local</string>
+    <string name="title_home">首页</string>
+    <string name="title_notifications">通知</string>
+    <string name="title_public_local">时间线</string>
     <string name="title_public_federated">Federated</string>
     <string name="title_thread">Thread</string>
     <string name="title_tag">#%s</string>
-    <string name="title_statuses">Posts</string>
-    <string name="title_follows">Follows</string>
-    <string name="title_followers">Followers</string>
-    <string name="title_favourites">Favourites</string>
-    <string name="title_mutes">Muted users</string>
-    <string name="title_blocks">Blocked users</string>
-    <string name="title_follow_requests">Follow Requests</string>
-    <string name="title_edit_profile">Edit your profile</string>
-    <string name="title_saved_toot">Drafts</string>
+    <string name="title_statuses">文</string>
+    <string name="title_follows">粉丝</string>
+    <string name="title_followers">粉丝们s</string>
+    <string name="title_favourites">喜爱的</string>
+    <string name="title_mutes">静音</string>
+    <string name="title_blocks">屏蔽用户</string>
+    <string name="title_follow_requests">关注请求</string>
+    <string name="title_edit_profile">编辑主人的资料</string>
+    <string name="title_saved_toot">保存Toot</string>
 
     <string name="status_username_format">\@%s</string>
-    <string name="status_boosted_format">%s boosted</string>
-    <string name="status_sensitive_media_title">Sensitive Media</string>
-    <string name="status_sensitive_media_directions">Click to view</string>
-    <string name="status_content_warning_show_more">Show More</string>
-    <string name="status_content_warning_show_less">Show Less</string>
+    <string name="status_boosted_format">%s 转载</string>
+    <string name="status_sensitive_media_title">敏感的媒体</string>
+    <string name="status_sensitive_media_directions">点击查看</string>
+    <string name="status_content_warning_show_more">查看更多</string>
+    <string name="status_content_warning_show_less">辣眼睛</string>
 
-    <string name="footer_empty">Nothing here. Pull down to refresh!</string>
+    <string name="footer_empty">主人来到了无人之境，下拉刷新</string>
 
-    <string name="notification_reblog_format">%s boosted your toot</string>
-    <string name="notification_favourite_format">%s favourited your toot</string>
-    <string name="notification_follow_format">%s followed you</string>
+    <string name="notification_reblog_format">%s 转了主人的Toot</string>
+    <string name="notification_favourite_format">%s 收藏了主人的Toot</string>
+    <string name="notification_follow_format">%s 关注了主人</string>
 
-    <string name="report_username_format">Report @%s</string>
-    <string name="report_comment_hint">Additional comments?</string>
+    <string name="report_username_format">举报 @%s</string>
+    <string name="report_comment_hint">主人有什么附言么？</string>
 
-    <string name="action_reply">Reply</string>
-    <string name="action_reblog">Boost</string>
-    <string name="action_favourite">Favourite</string>
-    <string name="action_more">More</string>
+    <string name="action_reply">回复</string>
+    <string name="action_reblog">转载</string>
+    <string name="action_favourite">收藏</string>
+    <string name="action_more">更多</string>
     <string name="action_compose">Compose</string>
-    <string name="action_login">Login with Mastodon</string>
-    <string name="action_logout">Log Out</string>
-    <string name="action_logout_confirm">Do you wish to logout</string>
-    <string name="action_follow">Follow</string>
-    <string name="action_unfollow">Unfollow</string>
-    <string name="action_block">Block</string>
-    <string name="action_unblock">Unblock</string>
-    <string name="action_report">Report</string>
-    <string name="action_delete">Delete</string>
-    <string name="action_send">TOOT</string>
-    <string name="action_send_public">TOOT!</string>
-    <string name="action_retry">Retry</string>
-    <string name="action_mark_sensitive">Mark media sensitive</string>
-    <string name="action_hide_text">Hide text behind warning</string>
+    <string name="action_login">登入到Eloli或其他平台</string>
+    <string name="action_logout">注销</string>
+    <string name="action_logout_confirm">呜呜～主人要走了么</string>
+    <string name="action_follow">关注</string>
+    <string name="action_unfollow">取消关注</string>
+    <string name="action_block">屏蔽</string>
+    <string name="action_unblock">取消屏蔽</string>
+    <string name="action_report">举报</string>
+    <string name="action_delete">删除</string>
+    <string name="action_send">发送</string>
+    <string name="action_send_public">发送</string>
+    <string name="action_retry">重试</string>
+    <string name="action_mark_sensitive">标注这是一个敏感的媒体</string>
+    <string name="action_hide_text">隐藏文字</string>
     <string name="action_ok">Ok</string>
-    <string name="action_cancel">Cancel</string>
-    <string name="action_close">Close</string>
-    <string name="action_back">Back</string>
-    <string name="action_view_profile">Profile</string>
-    <string name="action_view_preferences">Preferences</string>
-    <string name="action_view_favourites">Favourites</string>
-    <string name="action_view_mutes">Muted users</string>
-    <string name="action_view_blocks">Blocked users</string>
-    <string name="action_view_follow_requests">Follow Requests</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_close">关闭</string>
+    <string name="action_back">返回</string>
+    <string name="action_view_profile">主人的资料</string>
+    <string name="action_view_preferences">设置</string>
+    <string name="action_view_favourites">主人的收藏</string>
+    <string name="action_view_mutes">已经无视了的用户</string>
+    <string name="action_view_blocks">已经屏蔽的用户</string>
+    <string name="action_view_follow_requests">关注请求</string>
     <string name="action_view_thread">Thread</string>
-    <string name="action_view_media">Media</string>
-    <string name="action_open_in_web">Open in browser</string>
-    <string name="action_submit">Submit</string>
-    <string name="action_photo_pick">Add media</string>
-    <string name="action_photo_take">Take photo</string>
-    <string name="action_share">Share</string>
-    <string name="action_mute">Mute</string>
-    <string name="action_unmute">Unmute</string>
-    <string name="action_mention">Mention</string>
-    <string name="action_hide_media">Hide media</string>
-    <string name="action_compose_options">Options</string>
+    <string name="action_view_media">媒体</string>
+    <string name="action_open_in_web">在浏览器中打开</string>
+    <string name="action_submit">提交</string>
+    <string name="action_photo_pick">添加媒体</string>
+    <string name="action_photo_take">拍个照吧</string>
+    <string name="action_share">分享</string>
+    <string name="action_mute">静音</string>
+    <string name="action_unmute">取消静音</string>
+    <string name="action_mention">提到了</string>
+    <string name="action_hide_media">隐藏媒体</string>
+    <string name="action_compose_options">选项</string>
     <string name="action_open_drawer">Open drawer</string>
-    <string name="action_clear">Clear</string>
-    <string name="action_save">Save</string>
-    <string name="action_edit_profile">Edit profile</string>
-    <string name="action_undo">Undo</string>
-    <string name="action_accept">Accept</string>
-    <string name="action_reject">Reject</string>
-    <string name="action_search">Search</string>
-    <string name="action_access_saved_toot">Drafts</string>
+    <string name="action_clear">清除</string>
+    <string name="action_save">保存</string>
+    <string name="action_edit_profile">编辑主人资料</string>
+    <string name="action_undo">撤销</string>
+    <string name="action_accept">同意</string>
+    <string name="action_reject">拒绝</string>
+    <string name="action_search">搜索</string>
+    <string name="action_access_saved_toot">草稿箱</string>
 
-    <string name="send_status_link_to">Share toot URL to…</string>
-    <string name="send_status_content_to">Share toot to…</string>
+    <string name="send_status_link_to">分享这条toot链接到</string>
+    <string name="send_status_content_to">分享这条toot到</string>
 
-    <string name="confirmation_send">Toot!</string>
-    <string name="confirmation_reported">Sent!</string>
-    <string name="confirmation_unblocked">User unblocked</string>
-    <string name="confirmation_unmuted">User unmuted</string>
+    <string name="confirmation_send">走起</string>
+    <string name="confirmation_reported">发送!</string>
+    <string name="confirmation_unblocked">确认取消屏蔽</string>
+    <string name="confirmation_unmuted">确认取消无视</string>
 
     <string name="hint_domain">Which instance?</string>
     <string name="hint_compose">What\'s happening?</string>
@@ -123,68 +123,61 @@
 
     <string name="link_whats_an_instance">What\'s an instance?</string>
 
-    <string name="login_connection">Connecting…</string>
+    <string name="login_connection">少女祈祷中…</string>
 
-    <string name="dialog_whats_an_instance">The address or domain of any instance can be entered
-        here, such as mastodon.social, icosahedron.website, social.tchncs.de, and
-        <a href="https://instances.social">more!</a>
-        \n\nIf you don\'t yet have an account, you can enter the name of the instance you\'d like to
-        join and create an account there.\n\nAn instance is a single place where your account is
-        hosted, but you can easily communicate with and follow folks on other instances as though
-        you were on the same site.
-        \n\nMore info can be found at <a href="https://joinmastodon.org">joinmastodon.org</a>.
+    <string name="dialog_whats_an_instance">默认中文服务器 https://me.eloli.moe/
     </string>
-    <string name="dialog_title_finishing_media_upload">Finishing Media Upload</string>
-    <string name="dialog_message_uploading_media">Uploading…</string>
-    <string name="dialog_download_image">Download</string>
-    <string name="dialog_message_follow_request">Follow request pending: awaiting their response</string>
+    <string name="dialog_title_finishing_media_upload">媒体上传完成</string>
+    <string name="dialog_message_uploading_media">上传ing</string>
+    <string name="dialog_download_image">下载</string>
+    <string name="dialog_message_follow_request">等等对方同意你的请求</string>
 
-    <string name="visibility_public">Public: Post to public timelines</string>
-    <string name="visibility_unlisted">Unlisted: Do not show in public timelines</string>
-    <string name="visibility_private">Followers-Only: Post to followers only</string>
-    <string name="visibility_direct">Direct: Post to mentioned users only</string>
+    <string name="visibility_public">公共时间线</string>
+    <string name="visibility_unlisted">隐私时间线</string>
+    <string name="visibility_private">只给关注你的人看</string>
+    <string name="visibility_direct">只给特定的用户看</string>
 
-    <string name="pref_title_notification_settings">Notifications</string>
-    <string name="pref_title_edit_notification_settings">Edit Notifications</string>
-    <string name="pref_title_notifications_enabled">Notifications</string>
-    <string name="pref_title_pull_notification_check_interval">Check Interval</string>
-    <string name="pref_title_notification_alerts">Alerts</string>
-    <string name="pref_title_notification_alert_sound">Notify with a sound</string>
-    <string name="pref_title_notification_alert_vibrate">Notify with vibration</string>
-    <string name="pref_title_notification_alert_light">Notify with light</string>
-    <string name="pref_title_notification_filters">Notify me when</string>
-    <string name="pref_title_notification_filter_mentions">mentioned</string>
-    <string name="pref_title_notification_filter_follows">followed</string>
-    <string name="pref_title_notification_filter_reblogs">my posts are boosted</string>
-    <string name="pref_title_notification_filter_favourites">my posts are favourited</string>
-    <string name="pref_title_appearance_settings">Appearance</string>
-    <string name="pref_title_light_theme">Use the Light Theme</string>
-    <string name="pref_title_browser_settings">Browser</string>
-    <string name="pref_title_custom_tabs">Use Chrome Custom Tabs</string>
-    <string name="pref_title_hide_follow_button">Hide follow button while scrolling</string>
-    <string name="pref_title_status_filter">Timeline filtering</string>
+    <string name="pref_title_notification_settings">通知设置</string>
+    <string name="pref_title_edit_notification_settings">编辑通知设置</string>
+    <string name="pref_title_notifications_enabled">通知</string>
+    <string name="pref_title_pull_notification_check_interval">测试</string>
+    <string name="pref_title_notification_alerts">提醒</string>
+    <string name="pref_title_notification_alert_sound">提醒声音</string>
+    <string name="pref_title_notification_alert_vibrate">提醒振动</string>
+    <string name="pref_title_notification_alert_light">提醒闪光灯</string>
+    <string name="pref_title_notification_filters">当什么时提醒主人</string>
+    <string name="pref_title_notification_filter_mentions">提到主人</string>
+    <string name="pref_title_notification_filter_follows">有人关注了主人</string>
+    <string name="pref_title_notification_filter_reblogs">主人的toot被转发</string>
+    <string name="pref_title_notification_filter_favourites">主人的toot被收藏</string>
+    <string name="pref_title_appearance_settings">外观</string>
+    <string name="pref_title_light_theme">白天模式</string>
+    <string name="pref_title_browser_settings">浏览器设置</string>
+    <string name="pref_title_custom_tabs">使用谷歌浏览器</string>
+    <string name="pref_title_hide_follow_button">当滑动屏幕时隐藏关注按钮</string>
+    <string name="pref_title_status_filter">时间线过滤</string>
     <string name="pref_title_status_tabs">Tabs</string>
-    <string name="pref_title_show_boosts">Show boosts</string>
-    <string name="pref_title_show_replies">Show replies</string>
-    <string name="pref_title_show_media_preview">Show media previews</string>
+    <string name="pref_title_show_boosts">显示转推</string>
+    <string name="pref_title_show_replies">显示回复</string>
+    <string name="pref_title_show_media_preview">直接播放媒体</string>
 
-    <string name="notification_mention_format">%s mentioned you</string>
-    <string name="notification_summary_large">%1$s, %2$s, %3$s and %4$d others</string>
-    <string name="notification_summary_medium">%1$s, %2$s, and %3$s</string>
-    <string name="notification_summary_small">%1$s and %2$s</string>
-    <string name="notification_title_summary">%d new interactions</string>
+    <string name="notification_mention_format">%s 提到了主人</string>
+    <string name="notification_summary_large">%1$s, %2$s, %3$s 和 %4$d 等人</string>
+    <string name="notification_summary_medium">%1$s, %2$s, 和 %3$s</string>
+    <string name="notification_summary_small">%1$s 和 %2$s</string>
+    <string name="notification_title_summary">%d 新互动</string>
 
-    <string name="description_account_locked">Locked Account</string>
+    <string name="description_account_locked">哇，账号被锁定</string>
 
-    <string name="about_title_activity">About</string>
-    <string name="about_application_version">App version: %s</string>
+    <string name="about_title_activity">关于</string>
+    <string name="about_application_version">App 版本: %s</string>
     <string name="about_project_site">
-        Project website:\n
-        https://tusky.keylesspalace.com
+        开源代码:\n
+        https://github.com/elolimoe/Tusky
     </string>
     <string name="about_bug_feature_request_site">
-        Bug reports &amp; feature requests:\n
-        https://github.com/Vavassor/Tusky/issues
+        招人 &amp; Ruby &amp; PHPer &amp; Java:\n
+        a@tuzi.moe
     </string>
     <string name="about_tusky_account">Tusky\'s Profile</string>
 
